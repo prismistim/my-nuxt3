@@ -2448,7 +2448,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:^10.4.15":
+"autoprefixer@npm:^10.4.15, autoprefixer@npm:^10.4.16":
   version: 10.4.16
   resolution: "autoprefixer@npm:10.4.16"
   dependencies:
@@ -6137,9 +6137,11 @@ __metadata:
   dependencies:
     "@nuxt/devtools": latest
     "@nuxt/eslint-config": ^0.2.0
+    autoprefixer: ^10.4.16
     eslint: ^8.50.0
     eslint-config-prettier: ^9.0.0
     nuxt: ^3.7.3
+    postcss: ^8.4.31
     prettier: ^3.0.3
     prettier-plugin-tailwindcss: ^0.5.4
     tailwindcss: ^3.3.3
@@ -6967,7 +6969,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.4.23":
+"postcss@npm:^8.4.23, postcss@npm:^8.4.31":
   version: 8.4.31
   resolution: "postcss@npm:8.4.31"
   dependencies:
